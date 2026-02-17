@@ -21,5 +21,5 @@ You will need to add the ROS 2 apt repository to your system.
 
 First, ensure that the Ubuntu Universe repository is enabled.
 
-sudo apt install software-properties-common &&
+sudo apt install software-properties-common &
 sudo add-apt-repository universe
